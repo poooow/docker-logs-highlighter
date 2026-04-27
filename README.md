@@ -1,10 +1,10 @@
-# Docker logs hightligher
+# Docker logs highlight
 
 Insert into your `~/.bashrc` 
 then run `source ~/.bashrc` to apply
 
 ```bash
-# Hightlihgt docker logs
+# Highlight docker logs
 docker() {
     local is_logs=0
     for arg in "$@"; do

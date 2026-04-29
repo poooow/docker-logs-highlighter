@@ -1,9 +1,9 @@
-# Docker logs highlight
+# Docker logs highlighter
 
 Insert into your `~/.bashrc` 
 then run `source ~/.bashrc` to apply
 
-`docker logs <container_name>` has colors now
+`docker logs <container_name>` has colors now 🌈
 
 ```bash
 # Highlight docker logs
